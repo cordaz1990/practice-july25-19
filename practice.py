@@ -1,2 +1,2 @@
 print('moon')
-prin
+print

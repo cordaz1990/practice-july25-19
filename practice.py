@@ -1,3 +1,3 @@
 print('moon')
 print('lom')
-pri
+prin

@@ -1,1 +1,1 @@
-print('mo
+print('moo
